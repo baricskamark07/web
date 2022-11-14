@@ -1,27 +1,28 @@
-ul.bm {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-  }
-  
-  li.bm {
-    float: left;
-  }
-  
-  li.bm a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  li.bm a:hover:not(.active) {
-    background-color: #111;
-  }
-  
-  .active {
-    background-color: #04AA6D;
-  }
+div{
+background-color: cadetblue;
+color: black;
+font-size: xx-large;
+font-weight: 300;
+}
+button{
+  background-color:cyan;
+  color:black;
+}
+.shape1-4{
+  color: blueviolet;
+}
+.text1-4{
+  color: white;
+}
+
+#element-one{
+  background-color: yellow;
+
+}
+.paros{
+
+color: violet;
+}
+
+
+
