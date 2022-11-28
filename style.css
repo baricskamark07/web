@@ -25,3 +25,13 @@ ul {
   .active {
     background-color: #04AA6D;
   }
+  
+  
+    footer {
+      text-align: center;
+      padding: 3px;
+      background-color: grey;
+      color: white;
+    
+    
+    }
