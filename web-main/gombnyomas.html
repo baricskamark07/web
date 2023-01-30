@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gombnyomogatos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<link rel="stylesheet" href="style.css">
+
+<body>
+    <ul class="bm">
+        <li class="bm"><a  href="index.html">főoldal</a></li>
+        <li class="bm"><a  href="keplink.html">keplink</a></li>
+        <li class="bm"><a  href="lista.html">lista</a></li>
+        <li class="bm"><a  href="tablazotok.html">tablazatok</a></li>
+        <li class="bm"><a  href="urlap.html">urlap</a></li>
+        <li class="bm"><a  href="evszakok.html">évszakok</a></li>
+        <li class="bm"><a href="responsive.html">Link</a></li>
+        <li class="bm"><a href="homoktovis.html">homoktövis</a></li>
+        <li class="bm"><a class="active" href="gombnyomas.html">Gombanyomás</a></li>
+      </ul class="bm">
+<form action="javascript:ad()">
+    <input type="number" name="a" id="a" placeholder="szam1"> +
+    <input type="number" name="b" id="b" placeholder="szam2"> =
+    <input type="text" name="c" id="c" placeholder="eredmeny">
+    <input type="submit" value="SUBMIT">
+    <input type="color" name="szin" id="szin">
+</form>
+
+<script>
+function ad(){
+    c.value = (Number(a.value) + Number(b.value));
+    document.body.style.backgroundColor = szin.value;
+}
+</script>
+</body>
+</html>
