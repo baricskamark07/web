@@ -1,0 +1,55 @@
+1) Növelje meg a betűméretet a kétszeresére!
+
+2) A beküldés gombot igazítsa középre!
+
+3) Felezze le a select rész méretét, az id-hoz tartozó css beállítások segítségével!
+
+4) Állítsa be a mellékelt képet háttérképnek!
+
+5) Adjon meg egy új lehetőséget a select taghez, amely alapértelmezetten
+jelenik meg és a szövege: "--Válasszon egy diákot!--"
+
+6) A pontokhoz tegyen hozzá címkéket, mely a pontozási értékeket jelöli!
+Az Útmutatás táblát törölje!
+
+7) Javítsa ki az alábbi tanulók neveit: "Fazekas Benedek", "Papp Dávid", "Kucsma Ulrik", "Kuszék Szabolcs"
+
+8) A html dokumentumban található formázásokat helyezze külső css állományba.
+Linkelje be!
+
+9) Felezze le a select rész méretét, az id-hoz tartozó css beállítások segítségével!
+
+10) A kérdéseket helyezze középre!
+
+11) Az adható pontokat helyezze közvetlenül a kérdések után, egy sorban!
+
+12) Adjon "name" attribútumhoz nevet az osztályozó pontokhoz!
+Minden kérdéshez egyedi név kell!
+
+13) A "felso" osztályhoz állítson be kék színű, szaggatott keretet!
+
+14) Hozzon létre egy fejlécet, és helyezze bele a címet tartalmazó divet!
+
+15) Hozzon létre egy láblécet, és írja bele a következőt: "Készítette: Zachar Ábel Isván"
+
+16) Láblécben lévő szöveget állítsa aláhúzottra és félkövér stílusúra tagek használatával!
+
+17) Illessze be a mellékelt Kandó Kálmán iskolai logót a fejléc alá közvetlenül!
+
+18) Állítsa be a stíluslapon, hogy a h3 tagek aláhúzottak legyenek!
+
+19) Adja meg az oldal title-ének a következőt: "Tanulói értékelés"!
+
+20) Állítsa be az oldal nyelvét magyarra!
+
+21) Állítson be az iskolai logóra 3px vastagságú keretet, valamint
+legyen a kép középre igazított!
+
+22) Helyezzen el egy hivatkozást a logóra, mely a "https://kkszki.hu/" linkre mutat!
+
+23) Helyezzen be két képet közvetlenül a footer elé (kep1.jpg, kep2.jpg)!
+
+24) Állítson be a képekhez egy "iskola" classt! Adjon meg 200px szélességet és
+automatikus magasságot a classhoz a stíluslap fájlban!
+
+25) Mentse az oldalt ertekel.html néven, a stíluslapot stilus.css néven!

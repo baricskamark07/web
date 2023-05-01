@@ -1,0 +1,78 @@
+body {
+    background-color: darkgrey;
+    font-size: 20px ;
+    background-image:url(img/background.jpg);
+}
+
+.pont {
+    text-align: center;
+}
+
+.utmutatas {
+    border: solid black;
+    width: 200px;
+    height: auto;
+    text-align: center;
+    display: block;
+    float: right;
+}
+
+.kerd {
+    padding: 30px;
+    text-align: center;
+}
+
+.felso {
+    text-align: center;
+    padding: 50px;
+  border:5px solid blue;
+  border-style: dashed;
+}
+select {
+    padding: 10px;
+    font-size: 20px;
+}
+
+#val {
+    color: gold;
+}
+#select{
+    color: rgb(72, 134, 155);
+}
+#gomb {
+    
+    text-align: center;
+    width: 300px;
+    height: 50px;
+    font-size: large;
+    background-color: rgb(36, 230, 149);
+}
+
+.gomb{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    font-size: 30px;
+    text-decoration-line: underline;
+}
+
+#logo{
+    width: min-content;
+    height: min-content;
+     border: 3px solid black;
+     text-align: center;
+}
+
+h3{
+text-decoration-line: underline;
+
+
+}
+
+.iskola{
+width: 200px;
+height: auto;
+
+}
